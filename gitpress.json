@@ -1,6 +1,7 @@
 {
     "docs" : ["posts"],
     "perpage" : 5,
+    "domain_alias" :  ["blog.hidoos.me"],  
     "type" : {
         "\\.(md||markdown)$"   : "markdown", 
         "\\.(js||css||json)$"  : "code",
