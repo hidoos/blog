@@ -1,4 +1,5 @@
 blog
 ====
 
-this is blog of hidoos
+ 
+这是我的hidoos的blog
