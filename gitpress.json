@@ -9,7 +9,7 @@
     },
     "title" : "hidoo's blog",
     "comment"  : {"type":"duoshuo", "short_name":"gitpress"},
-    "domain_alias" : ["blog.hidoos.me"],  
+    "domain_alias" : ["hidoos.me"],  
     "friends" : [
      ] 
 }
