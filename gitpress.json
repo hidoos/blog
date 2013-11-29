@@ -8,7 +8,7 @@
         ".*"                   : "text"  
     },
     "title" : "hidoo's blog",
-    "comment" : "duoshuo", 
+    "comment"  : {"type":"duoshuo", "short_name":"gitpress"},
     "domain-alias" : ["hidoos.me"],
     "friends" : [
      ] 
