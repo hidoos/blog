@@ -31,7 +31,9 @@
 我很佩服那些坚持写blog的人，希望我能和他们一样！
 
 *   [幸福收藏夹](http://sofish.de)
-*   [格物致](http://heidixie.blog.sohu.com/)每次阅读这个blog，都会学到很多知识！还有一些文章对我的学习给了很大的启发：
+*   [格物致](http://heidixie.blog.sohu.com/)
+
+每次阅读这个blog，都会学到很多知识！还有一些文章对我的学习给了很大的启发：
 
     *   [《高效工作的信息搜集及管理术》](http://heidixie.blog.sohu.com/247551250.html)
     *   [《让学习车轮转起来（分享汉迪的学习理论》](http://heidixie.blog.sohu.com/115276170.html)
@@ -51,9 +53,7 @@
 ## 展望2013年
 
 *   第一件事就是学习、学习！！！读书计划，技术类豆列：
-
-    *   [web开发类](http://book.douban.com/doulist/1693779/#sb20390374)
-
+*   [web开发类](http://book.douban.com/doulist/1693779/#sb20390374)
 *   制作wordpress主题
 *   学习javascript
 *   学习php，至少用php独立完成一个项目
