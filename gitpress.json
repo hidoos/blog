@@ -1,7 +1,6 @@
 {
     "docs" : ["posts"],
     "perpage" : 5,
-    "domain_alias" :  ["blog.hidoos.me"],  
     "type" : {
         "\\.(md||markdown)$"   : "markdown", 
         "\\.(js||css||json)$"  : "code",
@@ -10,7 +9,7 @@
     },
     "title" : "hidoo's blog",
     "comment"  : {"type":"duoshuo", "short_name":"gitpress"},
-    "domain-alias" : ["hidoos.me"],
+    "domain_alias" : ["blog.hidoos.me"],  
     "friends" : [
      ] 
 }
