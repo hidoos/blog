@@ -1,1 +1,15 @@
-{}
+{
+    "docs" : ["posts"],
+    "perpage" : 5,
+    "type" : {
+        "\\.(md||markdown)$"   : "markdown", 
+        "\\.(js||css||json)$"  : "code",
+        "\\.html?$"            : "html",
+        ".*"                   : "text"  
+    },
+    "title" : "hidoo's blog",
+    "comment" : "on", 
+    "domain-alias" : ["hidoos.me"],
+    "friends" : [
+     ] 
+}
