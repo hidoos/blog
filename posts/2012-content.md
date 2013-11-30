@@ -38,7 +38,6 @@
 *   [《高效工作的信息搜集及管理术》](http://heidixie.blog.sohu.com/247551250.html)
 *   [《让学习车轮转起来（分享汉迪的学习理论》](http://heidixie.blog.sohu.com/115276170.html)
 *   [《交互设计那些事儿》](http://heidixie.blog.sohu.com/186686158.html)系列文章，这种写文章的方式真赞！
-
 *   [dbanotes](http://dbanotes.net/),话说，这个博主的微信：`小道消息` 也很不错。
 *   还有各种前端开发者的blog，都在GR里订阅了，很棒！
 
