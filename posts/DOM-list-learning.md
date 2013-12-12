@@ -13,8 +13,8 @@ MDN文档写的非常的好，正好提高一下自己的英语阅读能力
 - [HTMLTableElement][HTMLTableElement]
 
 
-[Introduction](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
-[Examples](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Examples?redirectlocale=en-US&redirectslug=Gecko_DOM_Reference%2FExamples)
-[DOM Reference](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference)
-[Element](https://developer.mozilla.org/en-US/docs/Web/API/element?redirectlocale=en-US&redirectslug=DOM%2Felement)
-[HTMLTableElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLTableElement?redirectlocale=en-US&redirectslug=DOM%2FHTMLTableElement)
+[Introduction]: https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction
+[Examples]: https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Examples?redirectlocale=en-US&redirectslug=Gecko_DOM_Reference%2FExamples
+[DOM Reference]: https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference
+[Element]: https://developer.mozilla.org/en-US/docs/Web/API/element?redirectlocale=en-US&redirectslug=DOM%2Felement
+[HTMLTableElement]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLTableElement?redirectlocale=en-US&redirectslug=DOM%2FHTMLTableElement
